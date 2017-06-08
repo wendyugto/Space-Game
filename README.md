@@ -1,2 +1,2 @@
 # Space-Game
-Project Final.
+These files contain the star wars demo game.
